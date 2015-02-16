@@ -1,0 +1,11 @@
+package com.testrepo.test;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		System.out.println("New Repo Test");
+
+	}
+
+}
